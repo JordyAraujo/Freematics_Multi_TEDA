@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "*.tcc": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
+    }
+}
